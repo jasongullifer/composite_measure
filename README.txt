@@ -3,7 +3,7 @@ that are then summed together within each participant. This score is
 divided by the square root of the sum of the variances and covariances
 of all the subtests (Crocker & Algina, 1986; McMurray, Samelson, Lee, & Tomblin, 2010; Pivneva, Palmer, & Titone, 2012).
 
-
+References
 
 Crocker, L., & Algina, J. (1986). Introduction to classical and modern test theory. Chicago, IL: Holt, Rinehart and Winston.
 
